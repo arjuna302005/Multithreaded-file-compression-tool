@@ -1,6 +1,16 @@
 # Multithreaded-file-compression-tool
 
+COMPANY NAME -CODTECH IT SOLUTIONS
 
+NAME -Arjun Ganpati Waghmode
+
+INTERN ID -CT08DK949
+
+DOMAIN NAME -C++ PROGRAMMING
+
+DURATION -8 WEEKS(APRIL 25th to JUNE 25th 2025)
+
+MENTOR -NEELA SANTHOSH KUMAR
 
 📌 Overview
 
